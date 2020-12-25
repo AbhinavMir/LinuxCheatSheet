@@ -156,7 +156,8 @@ $ cd ..
 This pretty much covers the absolute basics of Linux, going forth, you will need to familiarize yourself with Vim and other such tools. To get such regular updates from us, follow our [Instagram](https://www.instagram.com/vit_lug/) and join our [Subreddit](https://www.reddit.com/r/VITLUG/).
 
 <hr>
-**Made with 💘 by [VIT Linux User Group](https://github.com/vitlug).**
+
+<b>Made with 💘 by [VIT Linux User Group](https://github.com/vitlug).</b>
 
 Linux User's Group helps to understand the benefits of open source software over proprietary software. To create awareness and train users to go for open source software. To accelerate development and deployment of free and open source technologies, and beyond. Free to use, free to study, free to distribute, free to modify, free to access. Familiarize Students with Linux Distributions, Create awareness about FOSS, Learn general software on Linux such as GIMP, Libre Office, To present Linux as an efficient tool in Cyber security, Get students to contribute to FOSS, Make students more industry ready and to promote Linux in General.
 
