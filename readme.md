@@ -14,7 +14,7 @@ Below that is your Kernel, which has a number of subsystems. We have used the te
 
 Kernels are computer programs that are responsible for low-level tasks: Disk Management, Task Management and stuff. It provides an interface between the user and the hardware components of the system. 
 
-![Architecture of Linux](C:\Users\Abhinavmir\Downloads\Architecture-of-Linux-removebg-preview.png)
+![Architecture of Linux](Architecture-of-Linux-removebg-preview.png)
 
 There are various different types of Kernels, here's a few:
 
@@ -53,7 +53,7 @@ Servers, Gaming Consoles, Spaceships - all use Linux in some way or another. Our
 
 ![Linux Vs Windows](https://www.guru99.com/images/FolderStructure.png)
 
-		Even Peripherals in Linux are treated as files, unlike Windows, who classifies    devices as devices and so on and so forth and 
+Even Peripherals in Linux are treated as files, unlike Windows, who classifies    devices as devices and so on and so forth and 
 
 - Windows has 4 types of Users: Admin, Std, Child & Guest, where Linux has Root, Regular and Service.
 
@@ -65,7 +65,7 @@ Now that you have a basic idea about Linux, let's choose a Linux Distro for you.
 
 Instead, you could go with one of the many Linux Distros (Short for Distributions). These Linux Distros take all the code, build it and combine them into a single Operating System for you.
 
-![image-removebg-preview](C:\Users\Abhinavmir\Downloads\image-removebg-preview.png)
+![image-removebg-preview](image-removebg-preview.png)
 
 To find the right Distro for you, you can use: https://librehunt.org/
 
@@ -81,7 +81,7 @@ Once you have chosen your first distro, you will now have to install it. There a
 
 ### The Terminal
 
-![image-20201225200409678](C:\Users\Abhinavmir\AppData\Roaming\Typora\typora-user-images\image-20201225200409678.png)
+![image-20201225200409678](image-20201225200409678.png)
 
 The terminal in Linux is where most of the work happens (apart from your Browser where you will spend hours on Reddit 😛). The Terminal has a lot of useful tools, but we will start by doing the silly things.
 
@@ -103,7 +103,7 @@ $  sudo apt-get install sl
 
 `Command Not Found` occurs when your Distro does not use apt-get and uses some other method. I personally use Debiam, for which `apt-get` works fine, but CentOS for example uses `dnf`. An easy way to figure out your system's packaging tool is to Google it. In fact that will be your solution to everything.
 
-![image-20201225201554363](C:\Users\Abhinavmir\AppData\Roaming\Typora\typora-user-images\image-20201225201554363.png)
+![image-20201225201554363](image-20201225201554363.png)
 
 Once installed, you should type in the following.
 
