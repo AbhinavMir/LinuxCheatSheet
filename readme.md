@@ -121,15 +121,44 @@ Now, you have learned about the following
 
 #### Now let's play around with the Files
 
-We already talked a little about [Linux File Systems](https://opensource.com/life/16/10/introduction-linux-filesystems)
+We already talked a little about [Linux File Systems](https://opensource.com/life/16/10/introduction-linux-filesystems), now let's wander around the directories in our system. The first thing you want to know is which directory you are in.
+
+```shell
+$ pwd
+```
+
+This will return your current terminal directory. Now let's make a new folder.
+
+```shell
+$ mkdir newFolder
+```
+
+That's it! You have a new folder called "newFolder", now let's navigate into it.
+
+```shell
+$ cd newFolder
+```
+
+Now you're inside the new folder, let's cross-check that.
+
+```shell
+$ pwd
+```
+
+To go back to your original directory, type
+
+```shell
+$ cd ..
+```
 
 <hr>
 
-**Written with 💘 by [VIT Linux User Group](https://github.com/vitlug).**
+This pretty much covers the absolute basics of Linux, going forth, you will need to familiarize yourself with Vim and other such tools. To get such regular updates from us, follow our [Instagram](https://www.instagram.com/vit_lug/) and join our [Subreddit](https://www.reddit.com/r/VITLUG/).
+
+<hr>
+**Made with 💘 by [VIT Linux User Group](https://github.com/vitlug).**
 
 Linux User's Group helps to understand the benefits of open source software over proprietary software. To create awareness and train users to go for open source software. To accelerate development and deployment of free and open source technologies, and beyond. Free to use, free to study, free to distribute, free to modify, free to access. Familiarize Students with Linux Distributions, Create awareness about FOSS, Learn general software on Linux such as GIMP, Libre Office, To present Linux as an efficient tool in Cyber security, Get students to contribute to FOSS, Make students more industry ready and to promote Linux in General.
-
-
 
 
 
